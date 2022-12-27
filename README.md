@@ -1,5 +1,5 @@
 # Skoocafe-Cafeteria-Order-Delivery-System
-Hospital Management System using MySQL, Php and Bootstrap
+Skoocafe-Cafeteria-Order-Delivery-System using MySQL, Php and Bootstrap
 
 ## Prerequisites
 1. Install XAMPP web server
