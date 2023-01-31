@@ -22,7 +22,7 @@ Skoocafe-Cafeteria-Order-Delivery-System using MySQL, Php and Bootstrap
 4. Start the Apache and Mysql in your XAMPP control panel.
 5. Open your web browser and type 'localhost/phpmyadmin'
 6. In phpmyadmin page, create a new database from the left panel and name it as 'myhmsdb'
-7. Import the file 'myhmsdb.sql' inside your newly created database and click ok.
+7. Import the file 'skoocafe.sql' inside your newly created database and click ok.
 8. Open a new tab and type 'localhost/foldername' in the url of your browser
     
 ### SOFTWARES USED
